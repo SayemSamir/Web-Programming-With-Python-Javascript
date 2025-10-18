@@ -1,23 +1,20 @@
-<!-- 🌟 Sayem's Luxurious GitHub README 🌟 -->
+<!-- 🌟 Sayem's Animated GitHub README 🌟 -->
 
 <h1 align="center">✨ Welcome to My World ✨</h1>
-<h2 align="center">I'm <span style="color:#00FFFF;">Sayem</span> — Engineering Student | Programmer | Logic Explorer</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Digital+Logic+Designer+🧠;Python+%26+C+Programmer+💻;Competitive+Coder+⚔️;Machine+Learning+Explorer+🚀;Bilingual+Learner+(EN+%26+BN)+🌍" alt="Typing animation" />
-</p>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=I'm+Sayem+🧠;Engineering+Student+🚀;Programmer+💻;Logic+Explorer+🔍;Competitive+Coder+⚔️;Machine+Learning+Explorer+🤖;Bilingual+Learner+(EN+%26+BN)+🌍" alt="Typing animation" />
+</h2>
 
 ---
 
-### 🌟 About Me
+### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/brain_1f9e0.png" width="25"/> About Me
 
-I'm an engineering student with a passion for **digital logic**, **programming**, and **data-driven problem solving**. I love building robust code, exploring algorithms, and diving deep into how things work — from logic gates to machine learning.
-
-- 🔍 Logic lover: Boolean algebra, predicate logic, set theory
-- 💡 Code crafter: Python & C with modular design
-- 📊 Data analyst: statistics, frequency tables, visual modeling
-- 🔌 Circuit builder: gate-level electronics, simulations
-- ⚙️ Workflow optimizer: Competitive Companion + VS Code
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    I'm an engineering student passionate about digital logic, programming, and data-driven problem solving.
+    I build robust code, explore algorithms, and dive deep into how things work — from logic gates to machine learning.
+  </marquee>
+</p>
 
 ---
 
@@ -46,35 +43,36 @@ I'm an engineering student with a passion for **digital logic**, **programming**
 
 ### 🚀 Currently Exploring
 
-- 🧠 Machine Learning: mini-batches, data auditing, model evaluation
-- 🧮 Logic Reasoning: canonical forms, truth tables, quantifiers
-- 🧰 Tool Integration: Competitive Companion, VS Code extensions
-- 🌐 Career Building: LinkedIn optimization, personal branding
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Machine+Learning+Fundamentals;Advanced+Logic+Reasoning;Tool+Integration+%26+Workflow;Professional+Development+%26+Branding" alt="Typing animation" />
+</p>
 
 ---
 
 ### 🎯 Interests & Projects
 
-- 🔐 Digital Logic: parity bits, complements, error detection
-- 📊 Statistics: central tendency, frequency analysis, visualizations
-- 🧠 Logic Proofs: predicate logic, quantifiers, equivalence transformations
-- 🧮 Matrix Ops: vector calculus, transformations, linear algebra
-- 🧑‍💻 Code Challenges: modular solutions, debugging, function-based architecture
+<p align="center">
+  <marquee behavior="scroll" direction="right" scrollamount="5">
+    🔐 Digital Logic | 📊 Statistics | 🧠 Logic Proofs | 🧮 Matrix Ops | 🧑‍💻 Code Challenges
+  </marquee>
+</p>
 
 ---
 
 ### 🌍 Languages
 
-- 🇧🇩 Bengali (বাংলা) — for intuitive, deep learning  
-- 🇬🇧 English — for global collaboration
+<p align="center">
+  🇧🇩 Bengali (বাংলা) — for intuitive, deep learning  
+  🇬🇧 English — for global collaboration
+</p>
 
 ---
 
 ### 💫 Fun Facts
 
-- I love exploring **multiple solutions** to programming problems — elegance lies in diversity.
-- I often request **Bengali explanations** — because intuition matters.
-- I’m building a workflow that blends **competitive coding** with **modular design**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=I+love+alternative+solutions+to+problems;I+often+request+Bengali+explanations;I+blend+competitive+coding+with+modular+design" alt="Typing animation" />
+</p>
 
 ---
 
@@ -98,7 +96,9 @@ I'm an engineering student with a passion for **digital logic**, **programming**
 
 ### 🧠 Quote I Live By
 
-> “Logic will get you from A to B. Imagination will take you everywhere.” — Albert Einstein
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFAA00&center=true&vCenter=true&width=600&lines=Logic+will+get+you+from+A+to+B.;Imagination+will+take+you+everywhere.+–+Albert+Einstein" alt="Typing animation" />
+</p>
 
 ---
 
