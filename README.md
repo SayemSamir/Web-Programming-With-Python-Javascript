@@ -3,6 +3,10 @@
 <h1 align="center">Hi there 👋, I'm Sayem</h1>
 <h3 align="center">🚀 Engineering Student | 💻 Programmer | 🔍 Logic Explorer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Digital+Logic+Designer;Python+%26+C+Programmer;Competitive+Coder;Machine+Learning+Explorer;Bilingual+Learner+(EN+%26+BN)" alt="Typing animation" />
+</p>
+
 ---
 
 ### 🧠 About Me
@@ -19,22 +23,24 @@ I'm an engineering student with a passion for **digital logic**, **programming**
 
 ### 🛠️ Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+</p>
 
 ---
 
 ### 🧠 Problem Solving Profiles
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)]([https://codeforces.com/profile/your-id](https://codeforces.com/profile/sayem197))
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/your-id](https://leetcode.com/u/sayem197/))
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)]([https://www.hackerrank.com/your-id](https://www.hackerrank.com/profile/sayemuddinsamir1))
-[![AtCoder](https://img.shields.io/badge/AtCoder-1F8ACB?style=for-the-badge)](https://atcoder.jp/users/your-id)
-
-> 📝 Replace `your-id` with your actual usernames to make the badges clickable!
+<p align="center">
+  <a href="https://codeforces.com/profile/sayem197"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/sayem197/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/sayemuddinsamir1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://atcoder.jp/users/sayem197"><img src="https://img.shields.io/badge/AtCoder-1F8ACB?style=for-the-badge" /></a>
+</p>
 
 ---
 
@@ -74,15 +80,19 @@ I'm an engineering student with a passion for **digital logic**, **programming**
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gazi-sayem-uddin-samir)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SayemSamir)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gazi-sayem-uddin-samir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SayemSamir"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
 ### 🔥 GitHub Stats
 
-![Sayem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SayemSamir&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayemSamir&layout=compact&theme=radical" />
+</p>
 
 ---
 
